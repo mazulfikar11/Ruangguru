@@ -1,0 +1,2 @@
+*** Test Cases ***;${i};${page};${pageSize};${searchQuery};${minPrice};${maxPrice};${minDuration};${maxDuration};${sortBy};${orderBy}
+;1;2;5;;;;;;;
